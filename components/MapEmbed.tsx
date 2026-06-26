@@ -3,6 +3,7 @@ export default function MapEmbed() {
     <div className="w-full h-[400px] bg-slate-200 rounded-xl overflow-hidden shadow-sm relative">
       {/* Fallback map if key is not available */}
       <iframe
+        title="Bethel Stones Location Map"
         width="100%"
         height="100%"
         frameBorder="0"
